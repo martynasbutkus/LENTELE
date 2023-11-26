@@ -1,0 +1,42 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+button {
+    margin-top: 10px;
+    width: 166px;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 505px;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #FFC108;
+    height: 40px;
+}
+
+tr {
+    padding: 0px;
+    margin: 0px;
+}
+
+td {
+    background-color: #392B6F;
+    color: white;
+    padding-left: 10px;
+    border: 2px solid #FFC108;
+    height: 40px;
+}
